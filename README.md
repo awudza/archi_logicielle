@@ -1,6 +1,7 @@
 # Projet d'Architecture Logicielle
 
-Bienvenue dans le projet Java Swing de notre équipe ! Ce dépôt contient le code source et les instructions pour collaborer efficacement. Veuillez suivre les règles de Git ci-dessous pour assurer une bonne gestion des versions et une collaboration harmonieuse.
+Bienvenue dans le projet d'Architecture Logicielle  sur le sujet Groupes ! 
+Ce dépôt contient le code source et les instructions pour collaborer efficacement. Veuillez suivre les règles de Git ci-dessous pour assurer une bonne gestion des versions et une collaboration harmonieuse.
 
 ## Prérequis
 
